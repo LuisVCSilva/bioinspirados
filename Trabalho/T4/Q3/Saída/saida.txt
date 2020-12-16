@@ -1,0 +1,4 @@
+========= Ponto de Mínimo ==========
+Variaveis de projeto   0.49551
+Funcao Custo=     -24.752
+Número de pontos visitados=  501

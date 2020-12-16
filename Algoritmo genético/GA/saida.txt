@@ -1,0 +1,1920 @@
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -13.5496
+   xmin: [5.90109070009973 8.66818874718]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160578578 8.66818896230432]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03904226080893 8.66798435655123]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6482
+   xmin: [9.02685687123299 8.6262501804685]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160454944 8.66818896175773]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160470862 8.66818895814188]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.038991605326 8.66818896003457]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160481066 8.66818895666171]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160578578 8.66818896230432]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160417529 8.66818896536275]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160426238 8.66818896461445]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 0
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160578578 8.66818896230432]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899097328156 8.66818897728291]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160425645 8.66818896030694]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6891
+   xmin: [9.03908430639898 8.67188774922068]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.5547
+   xmin: [8.99772826012823 8.69446315747956]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160488933 8.66818895825311]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160497198 8.66818896328497]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160453939 8.66818896725122]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160442711 8.66818896081304]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160425645 8.66818896030694]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160456924 8.66818896261822]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.0389916048253 8.66818896718125]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 1
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160425645 8.66818896030694]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03883834248798 8.66819347077555]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160528311 8.66818896236499]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6824
+   xmin: [9.03643418249261 8.68742652965487]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -13.5556
+   xmin: [9.03734576740829 5.54077245000827]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899696683538 8.66818313919964]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160480785 8.66818895965037]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160563748 8.668188968054]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160505659 8.66818896779929]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160528311 8.66818896236499]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160409753 8.66818895873527]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160497346 8.66818895885961]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 2
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160528311 8.66818896236499]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6889
+   xmin: [9.04136584009505 8.66809698282448]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160414517 8.66818896399027]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03946641090769 8.66820868005841]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -14.8395
+   xmin: [9.16272032113591 8.45686418002846]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160711358 8.66818896200688]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160513775 8.6681889660266]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899161794768 8.66818897547525]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160448295 8.66818896387124]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160414517 8.66818896399027]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -13.5559
+   xmin: [9.03899160464324 5.54276919892486]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160496185 8.66818896213251]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 3
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160414517 8.66818896399027]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03898832773002 8.66818510577408]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160486269 8.66818896578892]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160458377 8.66818896039549]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6234
+   xmin: [9.01772295729749 8.71181211222394]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.0389916054633 8.66818896727937]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160561225 8.66818896621109]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160479505 8.66818896198879]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899159594378 8.66818894403205]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160486269 8.66818896578892]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160463837 8.66818895964168]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160488144 8.66818896209955]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 4
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160486269 8.66818896578892]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -13.5559
+   xmin: [9.03899086273152 5.54277187298384]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160448333 8.66818895638613]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160545091 8.66818896113275]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -13.388
+   xmin: [7.49058521533783 8.34588119545198]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6891
+   xmin: [9.03730191693987 8.66818846583267]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160469034 8.66818896010743]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899159431667 8.66818894614141]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160466002 8.66818895983232]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160448333 8.66818895638613]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -13.5559
+   xmin: [9.03899160510733 5.54276920269906]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160467601 8.6681889642409]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 5
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160448333 8.66818895638613]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -11.9858
+   xmin: [7.46964646578979 5.54276674424429]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160543256 8.66818895904771]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160482899 8.66818896623568]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -13.4537
+   xmin: [5.88665875283166 8.59766751482962]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160558595 8.66818896755759]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160486104 8.66818896727158]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899161758646 8.66818899888265]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160469651 8.66818896770614]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160543256 8.66818895904771]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899324128937 8.66818611109813]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160474543 8.66818896331002]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 6
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160543256 8.66818895904771]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -11.9838
+   xmin: [7.46380311440651 5.54279231822558]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160517427 8.6681889577881]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03897973932819 8.6682948417966]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -14.9772
+   xmin: [7.48246485539183 8.75511321651954]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899161750994 8.66818901157098]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160468818 8.66818896641063]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160461921 8.66818895630553]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.0389916056432 8.66818895327242]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160517427 8.6681889577881]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899175199431 8.66818881210457]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160549282 8.66818896208238]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 7
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160517427 8.6681889577881]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899153821326 8.66819020431089]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160473855 8.66818896024788]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160506867 8.66818896840127]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -15.0168
+   xmin: [7.50880564349971 8.69280211731731]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -15.1193
+   xmin: [7.4696466259327 8.66818896004584]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160453015 8.6681889636424]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899159730617 8.66818896260959]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160985942 8.66818897041255]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160473855 8.66818896024788]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160497451 8.66818896445607]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -15.1193
+   xmin: [7.46964662621289 8.66818896504905]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 8
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160473855 8.66818896024788]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 5
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899404370083 8.66989500773768]
+   neval: 2505
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160546373 8.66818895335263]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 100
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160482453 8.66818896363039]
+   neval: 50100
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 10
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.2461
+   xmin: [9.08470795287635 8.79734704160611]
+   neval: 550
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 100
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160522684 8.66818895937668]
+   neval: 5050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 1000
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160503851 8.66818895904798]
+   neval: 50050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.500000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160535058 8.66818896774837]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.700000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160475508 8.66818896185708]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160546373 8.66818895335263]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.010000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -15.1193
+   xmin: [7.46964662634767 8.66818896024179]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.050000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160536343 8.66818896356053]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO
+
+INÍCIO DA EXECUÇÃO
+Algoritmo genético executando com os seguintes parâmetros:
+Qtde máxima de gerações: 500
+Semente: 9
+Probabilidade de mutação: 0.100000
+Probabilidade de crossover: 0.900000
+Tamanho da População: 50
+------------------------------------------------
+######   RESULT   #########
+   Objective function for xmin: -16.6893
+   xmin: [9.03899160546373 8.66818895335263]
+   neval: 25050
+------------------------------------------------
+
+FIM DA EXECUÇÃO

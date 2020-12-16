@@ -1,0 +1,20 @@
+2019-07-11 16:33:33,511 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 16:33:33,570 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.4496197692229935e-09, best pos: [ 6.12603222e-07 -3.80689439e-05]
+2019-07-11 16:33:54,483 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 16:33:54,518 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.8542851764115954e-08, best pos: [-1.56177052e-04 -6.44327560e-05]
+2019-07-11 16:34:30,253 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 16:34:30,300 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.989221593655076e-09, best pos: [-2.07530178e-05 -5.05819518e-05]
+2019-07-11 16:34:52,194 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 16:34:52,220 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 8.51219734782674e-08, best pos: [-7.14452918e-05  2.82873724e-04]
+2019-07-11 16:56:14,962 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 16:56:14,992 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 5.431985865059112e-08, best pos: [4.26928005e-05 2.29122638e-04]
+2019-07-11 16:56:18,155 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2019-07-11 16:56:18,162 - matplotlib.animation - INFO - MovieWriter.run: running command: ['convert', '-size', '1000x800', '-depth', '8', '-delay', '10.0', '-loop', '0', 'rgba:-', 'plot0.gif']
+2019-07-11 18:03:40,897 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 18:03:40,953 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 5.767818750278202e-09, best pos: [-6.23329429e-05  4.33868987e-05]
+2019-07-11 18:03:44,409 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2019-07-11 18:03:44,417 - matplotlib.animation - INFO - MovieWriter.run: running command: ['convert', '-size', '1000x800', '-depth', '8', '-delay', '10.0', '-loop', '0', 'rgba:-', 'plot0.gif']
+2019-07-11 18:18:56,263 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 18:19:01,231 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 18:19:04,346 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-07-11 18:19:19,752 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}

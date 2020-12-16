@@ -1,0 +1,4 @@
+========= Ponto de M\EDnimo ==========
+Variaveis de projeto   8.6217      4.5304
+Funcao Custo=     -41.8079
+N\FAmero de pontos visitados=  501
